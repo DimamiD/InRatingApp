@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InRatingApp</string>
+
+    <string name="default_value">0</string>
+
+    <string name="views_text">Просмотров</string>
+    <string name="reposters_text">Репосты</string>
+    <string name="mentions_text">Отметки</string>
+    <string name="likers_text">Лайки</string>
+    <string name="commentators_text">Комментаторы</string>
+    <string name="bookmarks_text">Закладки</string>
+</resources>
